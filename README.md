@@ -21,3 +21,5 @@ This helps me with the first two items; providing the following features:
 4. Opening markdown with two keywords: dmv and dm. The first, dmv, is intended to open the markdown file with a viewer; Marked 2 for example. The second is intended to open it in an editor; the "viewer" variable is unset so the system default will be used.
 
 The features described in (1) and (4) use the current selection in DNtp to decide which PDF or markdown file to work on. The other two, (2) and (3), do so too but indirectly; the PDF which is associated with the markdown should be selected to open the markdown.
+
+dns (DEVONthink Pro notes set) can be a nice shortcut with Highlights; it can export annotations as markdwon. It will associate and existent markdown file with the selected PDF. It is a two step process: select the PDF, activate dns and select the markdown file; finally click Ok. The markdown file is moved to sibling "pdf notes" group.
