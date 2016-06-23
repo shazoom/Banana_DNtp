@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.wordpress.shaz00m.DNtp</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>0B314A51-6F5B-4C0E-A2AD-9F70A9F302AD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8FCC9F34-22FD-4A9D-A102-317B024722F0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>10DE8707-FB25-499C-AD4D-922F0FD16EF9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>21A3F601-87D3-4326-8FC0-8488F1DBD976</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>65451DA8-5FE7-4922-8EC2-E21A37BEE512</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3A121B7C-1AE3-4371-A956-3AAE8905CBAA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3F2DC9CF-E5B0-40DC-8D4F-84E6B9A23D4C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>463003AD-E092-4273-A992-9A618D48380F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9AD655B5-276D-4A5C-93F1-8CFC60E38FB6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>53550BE0-9BD5-441A-820B-FEA4CB664547</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>54419C9C-0586-4D1D-8CCA-7FBA01C39911</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3F2DC9CF-E5B0-40DC-8D4F-84E6B9A23D4C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>65451DA8-5FE7-4922-8EC2-E21A37BEE512</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B6C9E351-5887-47BF-85E7-937048D3FE0D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6730E9E5-1AE5-4D9E-A097-06D96ECAF773</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>53550BE0-9BD5-441A-820B-FEA4CB664547</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8805D8FF-DDA1-44C5-B6EF-58715676A4CA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>10DE8707-FB25-499C-AD4D-922F0FD16EF9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8E1C2376-DC23-4841-B825-8FCDC50807AD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3A121B7C-1AE3-4371-A956-3AAE8905CBAA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8FCC9F34-22FD-4A9D-A102-317B024722F0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B6C9E351-5887-47BF-85E7-937048D3FE0D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9AD655B5-276D-4A5C-93F1-8CFC60E38FB6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A6FC2F14-F5EF-4EF8-A996-BD769121D25E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ACE2115A-6DBD-4F06-B647-7FF0E5E6B7E3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A6FC2F14-F5EF-4EF8-A996-BD769121D25E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>656137F9-D74D-4792-968B-26C2D5D5F1E9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Peter Shannon</string>
+	<key>description</key>
+	<string>Workflow for DEVONthink Pro which facilitates annotating PDF files and consolodation and formulation of idesa in markdown files.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Banana DNtp</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dn</string>
+				<key>subtext</key>
+				<string>create markdown file for a PDF file; or, if the PDF has a valid hyperlink, open the markdown it points to</string>
+				<key>text</key>
+				<string>DNtp open/create assoctiated file for notes</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>21A3F601-87D3-4326-8FC0-8488F1DBD976</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>DNtp create/set/open note failed</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B6C9E351-5887-47BF-85E7-937048D3FE0D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dp</string>
+				<key>subtext</key>
+				<string>open in the system default application</string>
+				<key>text</key>
+				<string>Dntp open a PDF file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>463003AD-E092-4273-A992-9A618D48380F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>global aw_lib
+set aw_lib_filename to "aw_lib.scpt"set m_pwd to (do shell script "pwd")set aw_lib to load script (m_pwd &amp; "/" &amp; aw_lib_filename)
+
+runDNtpNote() of aw_lib</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>65451DA8-5FE7-4922-8EC2-E21A37BEE512</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>content_type</key>
+					<string>PDF+Text</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>9AD655B5-276D-4A5C-93F1-8CFC60E38FB6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dph</string>
+				<key>subtext</key>
+				<string>open in Highlights</string>
+				<key>text</key>
+				<string>Dntp open a PDF file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6730E9E5-1AE5-4D9E-A097-06D96ECAF773</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>content_type</key>
+					<string>PDF+Text</string>
+					<key>viewer</key>
+					<string>highlights</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>53550BE0-9BD5-441A-820B-FEA4CB664547</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dns</string>
+				<key>subtext</key>
+				<string>set markdown file already in DNtp as an associate notes file for a PDF file</string>
+				<key>text</key>
+				<string>DNtp set assoctiated file for notes</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>0B314A51-6F5B-4C0E-A2AD-9F70A9F302AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>global aw_lib
+set aw_lib_filename to "aw_lib.scpt"set m_pwd to (do shell script "pwd")set aw_lib to load script (m_pwd &amp; "/" &amp; aw_lib_filename)
+
+runSetDNtpNote() of aw_lib</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8FCC9F34-22FD-4A9D-A102-317B024722F0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dpc</string>
+				<key>subtext</key>
+				<string>open in Clearview</string>
+				<key>text</key>
+				<string>Dntp open a PDF file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>ACE2115A-6DBD-4F06-B647-7FF0E5E6B7E3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>extension</key>
+					<string>pdf</string>
+					<key>viewer</key>
+					<string>clearview</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>A6FC2F14-F5EF-4EF8-A996-BD769121D25E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dpp</string>
+				<key>subtext</key>
+				<string>open in Preview</string>
+				<key>text</key>
+				<string>Dntp open a PDF file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>54419C9C-0586-4D1D-8CCA-7FBA01C39911</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>global aw_lib
+set aw_lib_filename to "aw_lib.scpt"set m_pwd to (do shell script "pwd")set aw_lib to load script (m_pwd &amp; "/" &amp; aw_lib_filename)
+
+runViewer() of aw_lib</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>DNtp open {var:extension} failed</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>656137F9-D74D-4792-968B-26C2D5D5F1E9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>content_type</key>
+					<string>PDF+Text</string>
+					<key>viewer</key>
+					<string>preview</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>3F2DC9CF-E5B0-40DC-8D4F-84E6B9A23D4C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dm</string>
+				<key>subtext</key>
+				<string>open in the system default application</string>
+				<key>text</key>
+				<string>Dntp open a markdown file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8E1C2376-DC23-4841-B825-8FCDC50807AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>content_type</key>
+					<string>markdown</string>
+					<key>extension</key>
+					<string>markdown</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>3A121B7C-1AE3-4371-A956-3AAE8905CBAA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>dmv</string>
+				<key>subtext</key>
+				<string>open in Marked 2</string>
+				<key>text</key>
+				<string>Dntp open a markdown file</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8805D8FF-DDA1-44C5-B6EF-58715676A4CA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>content_type</key>
+					<string>markdown</string>
+					<key>viewer</key>
+					<string>marked 2</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>10DE8707-FB25-499C-AD4D-922F0FD16EF9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Banana DNtp
+
+Alfred Keywords:
+
+1. dn    create/open associate markdown file
+2. dns   associate an exsisting markdown file with a PDF
+3. dp    open selected PDF with default application
+4. dpc   open selected PDF with Clearview
+5. dph   open selected PDF with Highlights
+6. dpp   open selected PDF with Preview
+7. dm    open selected markdown with default application
+8. dmv   open selected markdown with Marked 2
+
+To configure this workflow you will need to alter the "viewer" varibles in the "Args and Vars". If you leave viewer unset the system default will be used. Please change the keywords to whatever makes sense or delete unnecessary launchers.
+
+This workflow supports my process, which is,:
+
+1. Use a PDF viewer with good support for annotations to directly highlight, underline and make notes on a papers content. I particularly like Clearview for this, although, Highlights has merits too.
+
+2. Export the notes into a convenient format for editing and expansion of and further comment on the notes already made and embedded into the PDF.
+
+3. Finally, pull together the different notes into a cohesive form.
+
+This helps me with the first two items; providing the following features:
+
+1. Extra shortcuts for launching specialised PDF viewers, with the dp (default), dpp (Preview), dpc (Clearview) and dph (Highlights) keywords.
+
+2. Creation and association (using the URL property of the PDF's record) of markdown files in a subgroup, called 'pdf notes', which is a sibling of the PDF in question. Using the dn keyword.
+
+3. Opening the markdown file via the hyperlink, wherever it has been moved to. Using the dn keyword.
+
+4. Opening markdown with two keywords: dmv and dm. The first, dmv, is intended to open the markdown file with a viewer; Marked 2 for example. The second is intended to open it in an editor; the "viewer" variable is unset so the system default will be used.
+
+The features described in (1) and (4) use the current selection in DNtp to decide which PDF or markdown file to work on. The other two, (2) and (3), do so too but indirectly; the PDF which is associated with the markdown should be selected to open the markdown.
+
+dns (DEVONthink Pro notes set) can be a nice shortcut with Highlights; it can export annotations as markdwon. It will associate and existent markdown file with the selected PDF. It is a two step process: select the PDF, activate dns and select the markdown file; finally click Ok. The markdown file is moved to sibling "pdf notes" group.</string>
+	<key>uidata</key>
+	<dict>
+		<key>0B314A51-6F5B-4C0E-A2AD-9F70A9F302AD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Set PDF assocaition with markdown file already in DNtp 
+
+----------
+
+Ensure a PDF file is selected.
+
+Associate a markdown file, with a PDF file, and move it to the sibling "pdf notes" group. Ensure a PDF file is selected; then, when prompted, select the markdown file and click on Ok.</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>190</integer>
+		</dict>
+		<key>10DE8707-FB25-499C-AD4D-922F0FD16EF9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>890</integer>
+		</dict>
+		<key>21A3F601-87D3-4326-8FC0-8488F1DBD976</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open or create a markdown file and associate it with a PDF file
+
+----------
+
+Ensure a PDF file is selected. 
+
+On creation a hyperlink will be created from the PDF file to a new markdown file. The markdown file, itself, will be stored in an new subgroup called "pdf notes".</string>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
+		<key>3A121B7C-1AE3-4371-A956-3AAE8905CBAA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>740</integer>
+		</dict>
+		<key>3F2DC9CF-E5B0-40DC-8D4F-84E6B9A23D4C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>600</integer>
+		</dict>
+		<key>463003AD-E092-4273-A992-9A618D48380F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open PDF with system default
+
+----------
+
+Each of the "Args and Vars", to the right and below, set 1 or 2 variables each:
+
+viewer: the name of the viewer app to use, as used with "open -a". If left blank, the system default will be used.
+
+type: the file type to open (make sure the correct type is selected in DNtp, e.g.,: "PDF+Text" or "markdown")</string>
+			<key>xpos</key>
+			<integer>130</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
+		<key>53550BE0-9BD5-441A-820B-FEA4CB664547</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>54419C9C-0586-4D1D-8CCA-7FBA01C39911</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open PDF with Preview</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>570</integer>
+		</dict>
+		<key>65451DA8-5FE7-4922-8EC2-E21A37BEE512</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
+		<key>656137F9-D74D-4792-968B-26C2D5D5F1E9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>xpos</key>
+			<integer>750</integer>
+			<key>ypos</key>
+			<integer>570</integer>
+		</dict>
+		<key>6730E9E5-1AE5-4D9E-A097-06D96ECAF773</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open PDF with Highlights
+
+---------
+
+The "dns" keyword is particularly useful with Highlights. Share the annotated PDF as markdown with DNtp, then associate it with the PDF using "dns".</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>8805D8FF-DDA1-44C5-B6EF-58715676A4CA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open markdown with viewer. 
+
+----------
+
+Change the "viewer" variable in the "Args and Vars" (›) to the right to whichever view you want to use.</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>860</integer>
+		</dict>
+		<key>8E1C2376-DC23-4841-B825-8FCDC50807AD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open markdown with system default editor</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>710</integer>
+		</dict>
+		<key>8FCC9F34-22FD-4A9D-A102-317B024722F0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>190</integer>
+		</dict>
+		<key>9AD655B5-276D-4A5C-93F1-8CFC60E38FB6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>100</integer>
+		</dict>
+		<key>A6FC2F14-F5EF-4EF8-A996-BD769121D25E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>ACE2115A-6DBD-4F06-B647-7FF0E5E6B7E3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Open PDF with Clearview</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>B6C9E351-5887-47BF-85E7-937048D3FE0D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>xpos</key>
+			<integer>1120</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
+		<key>E3B3CC0C-193C-43BB-83D8-4BDF479CE6A7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>570</integer>
+		</dict>
+	</dict>
+	<key>version</key>
+	<string>1.3</string>
+	<key>webaddress</key>
+	<string>https://github.com/shazoom/Banana_DNtp</string>
+</dict>
+</plist>
