@@ -463,8 +463,8 @@ runSetDNtpNote() of aw_lib</string>
 				<string>{query}</string>
 				<key>variables</key>
 				<dict>
-					<key>extension</key>
-					<string>pdf</string>
+					<key>content_type</key>
+					<string>PDF+Text</string>
 					<key>viewer</key>
 					<string>clearview</string>
 				</dict>
