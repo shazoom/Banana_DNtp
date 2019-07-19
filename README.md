@@ -1,4 +1,4 @@
-#Banana DNtp
+# Banana DNtp for DEVONthink 3
 
 Alfred Keywords:
 
@@ -12,6 +12,8 @@ Alfred Keywords:
 8. dmv   open selected markdown with Marked 2
 
 To configure this workflow you will need to alter the "viewer" varibles in the "Args and Vars". If you leave viewer unset the system default will be used. Please change the keywords to whatever makes sense or delete unnecessary launchers.
+
+The commands can now be configured to support multiple content types. The main reason this is necessary is because DEVONthink uses 2 types for PDF, one with text (PDF+Text) and one without (PDF Document). It's a bit annoying if your're writing a plugin like this. Anyway, the "content_type" will now accept multiple semicolon separated values.
 
 This workflow supports my process, which is,:
 
@@ -30,4 +32,3 @@ This helps me with the first two items; providing the following features:
 5. Opening markdown with two keywords: dmv and dm. The first, dmv, is intended to open the markdown file with a viewer; Marked 2 for example. The second is intended to open it in an editor; the "viewer" variable is unset so the system default will be used.
 
 The features described in (1) and (4) use the current selection in DNtp to decide which PDF or markdown file to work on. The other three, (2), (3) and (4), do so too but indirectly; the PDF which is associated with the markdown should be selected to open or set the markdown association.
-
